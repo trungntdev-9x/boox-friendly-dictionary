@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+boox-to-anki/node_modules/
+
+# Build outputs
+dist/
+boox-to-anki/dist/
+boox-to-anki/dist-ssr/
+
+# Local env files
+*.local
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Project specific
+"output file/"
