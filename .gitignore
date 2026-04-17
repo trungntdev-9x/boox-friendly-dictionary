@@ -13,6 +13,9 @@ boox-to-anki/dist-ssr/
 # OS files
 .DS_Store
 
+# Firebase
+.firebase/
+
 # Logs
 *.log
 
