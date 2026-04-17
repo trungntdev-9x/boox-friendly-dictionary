@@ -53,7 +53,7 @@ function App() {
   return (
     <div className="app-container">
       <header className="header">
-        <h1 className="text-gradient">Boox to Anki</h1>
+        <h1 className="text-gradient">Boox dictionary formatter</h1>
         <p>Convert your e-reader dictionary lookups into powerful flashcards</p>
       </header>
       
