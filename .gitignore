@@ -17,4 +17,4 @@ boox-to-anki/dist-ssr/
 *.log
 
 # Project specific
-"output file/"
+output file/
